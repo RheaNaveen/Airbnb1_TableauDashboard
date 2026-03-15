@@ -1,2 +1,2 @@
 # Airbnb1_TableauDashboard
-Airbnb data analysis dashboard built in Tableau to explore pricing trends, revenue growth, and geographic distribution of listings by zipcode. The project highlights key insights such as average price by bedroom type, revenue trends over time, and location-based pricing differences.
+Tableau dashboard analyzing Airbnb listing data sourced from Kaggle. The project explores pricing trends, revenue growth, and geographic distribution by zipcode, with insights on average price by bedroom type and revenue patterns over time.
