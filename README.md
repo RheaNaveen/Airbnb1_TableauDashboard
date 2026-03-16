@@ -141,3 +141,15 @@ Airbnb-Tableau-Dashboard
 ## Design Approach
 
 A consistent blue color palette was used across the dashboard to maintain a professional look and improve visual clarity. Using a single color theme reduces visual clutter and helps users focus on the insights presented in the charts.
+
+## Conclusion
+
+This project explores the Airbnb Listings 2016 dataset to understand how location, property size, and competition influence Airbnb pricing and revenue patterns. By using Tableau’s visualization capabilities, the dashboard highlights relationships between zipcodes, bedroom types, and seasonal demand.
+
+The analysis shows how visual exploration of data can reveal useful patterns such as premium locations, high-demand periods, and market competition among listings.
+
+---
+
+## Learning Note
+
+This project was created as part of my learning journey in data analytics while exploring Tableau’s dashboarding and visualization features. It focuses on understanding how to structure dashboards, apply consistent design choices, and use visualizations to communicate insights from real-world datasets.
