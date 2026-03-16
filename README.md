@@ -8,8 +8,9 @@ The dashboard was created using Tableau to transform raw Airbnb data into meanin
 
 ## Dashboard Preview
 
-Dashboard Preview
-https://github.com/RheaNaveen/Airbnb1_TableauDashboard/blob/main/Airbnb%20dashboard%20image.png
+<p align="center">
+  <img src="Airbnb_dashboard_image.png" width="900">
+</p>
 
 ---
 
