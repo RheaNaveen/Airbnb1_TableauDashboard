@@ -128,8 +128,14 @@ For example, one-bedroom listings appear most frequently, indicating higher comp
 
 ## Repository Structure
 
+```
 Airbnb-Tableau-Dashboard
 │
 ├── dashboard.twbx
 ├── dashboard_preview.png
 └── README.md
+```
+
+## Design Approach
+
+A consistent blue color palette was used across the dashboard to maintain a professional look and improve visual clarity. Using a single color theme reduces visual clutter and helps users focus on the insights presented in the charts.
