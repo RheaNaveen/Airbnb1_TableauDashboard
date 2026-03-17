@@ -152,4 +152,4 @@ The analysis shows how visual exploration of data can reveal useful patterns suc
 
 ## Learning Note
 
-This project was created as part of my learning journey in data analytics while exploring Tableau’s dashboarding and visualization features. It focuses on understanding how to structure dashboards, apply consistent design choices, and use visualizations to communicate insights from real-world datasets.
+This project was created as part of my learning journey in data analytics while exploring Tableau’s dashboarding and . It focuses on understanding how to structure dashboards, apply consistent design choices, and use visualizations to communicate insights from real-world datasets.
